@@ -43,6 +43,5 @@ unzip fsc26_mac64.zip
 cd fsc26_mac64
 chmod +x fsc26
 ./fsc26 --h # should yield menu of parameters if install worked
-# make sure it's working:
-cd example\ files/
+
 ########### NOTE THE PATH TO FSC26 -- you will need it for the exercises! (or add it to your path or as an alias if you are comfortable doing that) #######
