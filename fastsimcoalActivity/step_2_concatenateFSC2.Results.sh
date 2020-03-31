@@ -5,8 +5,8 @@
 models='1D.1Epoch 1D.2Epoch 1D.3Epoch'
 numReps=10 # number of replicates. should be 50+ if you're doing this for real
 
-#wd=/path/to/working/directory 
-wd=/Users/annabelbeichman/Documents/UCLA/DemographyWorkshop/ActivityMaterials/fastsimcoalActivity
+wd=/path/to/working/directory  # <-- you must update this path!
+#wd=/Users/annabelbeichman/Documents/UCLA/DemographyWorkshop/ActivityMaterials/fastsimcoalActivity
 
 resultsDir=$wd/fscResults
 mkdir -p $resultsDir/resultsSummaries
